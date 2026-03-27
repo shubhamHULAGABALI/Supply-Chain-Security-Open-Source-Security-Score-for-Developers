@@ -21,7 +21,7 @@ Thumbs.db
 *.parquet
 
 # Models
-*.h5
+
 
 
 
