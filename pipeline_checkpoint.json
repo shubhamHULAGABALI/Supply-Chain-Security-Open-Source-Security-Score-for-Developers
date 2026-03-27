@@ -1,8 +1,0 @@
-{
-  "librariesio": true,
-  "npm_popularity": true,
-  "npm_metadata": true,
-  "github_commits": true,
-  "github_metadata": false,
-  "osv": true
-}
