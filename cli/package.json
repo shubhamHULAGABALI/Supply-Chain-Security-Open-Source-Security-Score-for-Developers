@@ -1,0 +1,23 @@
+{
+  "name": "deeprisk-cli",
+  "version": "1.0.0",
+  "description": "npm Supply Chain Security Scanner — GAT+LSTM powered",
+  "main": "index.js",
+  "bin": {
+    "deeprisk": "index.js"
+  },
+  "engines": {
+    "node": ">=16.0.0"
+  },
+  "keywords": [
+    "security",
+    "npm",
+    "supply-chain",
+    "vulnerability",
+    "ai"
+  ],
+  "license": "MIT",
+  "dependencies": {
+    "express": "^5.2.1"
+  }
+}

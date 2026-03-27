@@ -1,0 +1,30 @@
+# Python
+venv/
+__pycache__/
+*.pyc
+
+# Node
+node_modules/
+
+# Environment
+.env
+
+# Logs
+*.log
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Data (ML)
+data/
+*.parquet
+
+# Models
+*.h5
+*.pt
+*.pth
+
+# IDE
+.vscode/
+.idea/
