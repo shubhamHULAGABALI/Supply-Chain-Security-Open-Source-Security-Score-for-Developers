@@ -1,0 +1,22 @@
+Phase 2: Dependency Graph — DeepRisk-OSS
+=========================================
+Nodes (packages)      : 19,727
+Edges (dependencies)  : 72,129
+Avg out-degree        : 3.66
+Nodes with >= 1 edge  : 15,189  (77.0%)
+Node feature dim      : 41
+  Base features       : 39
+  Graph features      : 2  (in_degree_norm, pagerank)
+Label distribution    : positive=1,006  (5.1%)
+Split
+  Train               : 8,563
+  Val                 : 1,609
+  Test                : 9,555
+
+Files
+  node_features        node_features.npy              3159.5 KB
+  node_labels          node_labels.npy                77.2 KB
+  edges                edges.npy                      563.6 KB
+  name_to_idx          name_to_idx.pkl                472.1 KB
+  masks                masks.npy                      58.2 KB
+  feature_names        feature_names.txt              0.7 KB

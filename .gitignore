@@ -17,13 +17,13 @@ node_modules/
 Thumbs.db
 
 # Data (ML)
-data/
+
 *.parquet
 
 # Models
 *.h5
-*.pt
-*.pth
+
+
 
 # IDE
 .vscode/

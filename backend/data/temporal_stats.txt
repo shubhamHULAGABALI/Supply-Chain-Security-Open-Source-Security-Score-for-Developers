@@ -1,0 +1,26 @@
+Phase 3 prep: Temporal Features — DeepRisk-OSS
+==================================================
+Nodes (total)          : 19,727
+Nodes with real data   : 12,859  (65.2%)
+Nodes zero-filled      : 6,868  (34.8%)
+Series length          : 104 weeks
+Array shape            : (19727, 104)
+Array dtype            : float32
+
+Normalisation
+  log1p applied        : True
+  mean (train)         : 0.024429
+  std  (train)         : 0.216588
+  stat rows used       : 6,856
+
+Value range (covered nodes only)
+  global min           : -0.1128
+  global max           : 37.2481
+  global mean          : 0.9651
+  global std           : 3.2123
+  frac nonzero weeks   : 100.0%
+
+Output files
+  temporal_features          temporal_features.npy               8014.2 KB
+  coverage_mask              coverage_mask.npy                   19.4 KB
+  norm_params                norm_params.pkl                     0.1 KB

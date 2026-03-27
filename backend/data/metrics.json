@@ -1,0 +1,19 @@
+{
+  "train_auc": 0.999327,
+  "train_ap": 0.990822,
+  "train_f1": 0.362832,
+  "train_precision": 1.0,
+  "train_recall": 0.221622,
+  "val_auc": 0.992003,
+  "val_ap": 0.886907,
+  "val_f1": 0.819444,
+  "val_precision": 0.819444,
+  "val_recall": 0.819444,
+  "test_auc": 0.893392,
+  "test_ap": 0.29242,
+  "test_f1": 0.325353,
+  "test_precision": 0.199598,
+  "test_recall": 0.879433,
+  "temperature": 6.2814,
+  "optimal_threshold": 0.7681
+}
